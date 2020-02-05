@@ -1,4 +1,6 @@
 Resolusi Danz
 - menjadi untuk lebih baik
+ *test1
+ *test2
 - mempelajari percodingan
 - ingin menguasa pemrograman dan web
